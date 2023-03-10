@@ -1,1 +1,1 @@
-shell permisiion 
+readme 
